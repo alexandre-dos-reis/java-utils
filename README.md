@@ -5,3 +5,4 @@ A glossary to comprehend the java ecosystem.
 ## JSP
 ## J2EE
 ## Spring Boot
+## Tomcat
