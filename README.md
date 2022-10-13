@@ -8,7 +8,7 @@ Permet la gestion d'un projet Java (autre alternative : Gradle), que ça soit de
 ## Spring Boot
 Framework Java, permettant de construire des microservices autonomes (des fichier .jar) qu'on peut par exemple faire tourner dans des containers Docker
 ## Tomcat
-Serveur qui permet de faire tourner nos applications web/microservies web (créer avec Spring Boot par exemple) et donc des les rendres accessibles via requêtes HTTP
+Serveur qui permet de faire tourner nos applications web/microservices web (créer avec Spring Boot par exemple) et donc des les rendres accessibles via requêtes HTTP
 
 ## Liens
 
