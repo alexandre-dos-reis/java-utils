@@ -1,5 +1,5 @@
 # java-utils
-A glossary to comprehend the java ecosystem.
+Compréhension de l'éco-système Java
 
 ## Maven
 Permet la gestion d'un projet Java (autre alternative : Gradle), que ça soit de gérer les dépendances défini dans le fichier pom.xml, de compiler le projet, de lancer le projet
